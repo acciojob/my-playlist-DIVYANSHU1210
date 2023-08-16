@@ -1,1 +1,11 @@
-/*  your css code here. If applicable */
+.headings{
+	text-align : center;
+}
+
+ul{
+	list-style-type: none;
+}
+
+a{
+	text-decoration: none;
+}
