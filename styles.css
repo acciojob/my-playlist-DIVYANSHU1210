@@ -12,3 +12,15 @@ ul{
 a{
 	text-decoration: none;
 }
+
+.player_one{
+	background-color: rgb(255, 255, 255); 
+	padding : 50px; 
+	border-radius : 10% ;
+}
+
+.player_two{
+	background-color: rgb(255, 255, 255); 
+	padding : 50px; 
+	border-radius : 10% ;
+}
